@@ -28,7 +28,6 @@ Location: Soviet Union/ Russia, Zelenograd.
 
 Is still around: yes.
 
-
 ## GAMMA
 Logo:
 
@@ -37,3 +36,12 @@ Logo:
 Location: Soviet Union/ Ukraine, Zaporizhzhia.
 
 Is still around: Defunct in 1991.
+
+## INTEGRAL
+Logo:
+
+![alt text](https://github.com/RetroNora/Guide_for_Eastern_ICs/blob/main/Logos/Integral.jpg)
+
+Location: Soviet Union/ Belarus, Minsk.
+
+Is still around: yes.
