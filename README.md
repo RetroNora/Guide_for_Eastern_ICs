@@ -27,3 +27,13 @@ Logo:
 Location: Soviet Union/ Russia, Zelenograd.
 
 Is still around: yes.
+
+
+## GAMMA
+Logo:
+
+![alt text](https://github.com/RetroNora/Guide_for_Eastern_ICs/blob/main/Logos/Gamma.jpg)
+
+Location: Soviet Union/ Ukraine, Zaporizhzhia.
+
+Is still around: Defunct in 1991.
