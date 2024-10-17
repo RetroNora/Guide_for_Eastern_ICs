@@ -6,9 +6,9 @@ Logo:
 
 ![alt text](https://github.com/RetroNora/Guide_for_Eastern_ICs/blob/main/Logos/CEMI.jpg)
 
-Location: Poland, Warsaw
+Location: Poland, Warsaw.
 
-Is still around: Defunct in 1994
+Is still around: Defunct in 1994.
 
 ## MICROELECTRONICA
 Logo:
@@ -19,4 +19,11 @@ Location: Romania, Bucharest
 
 Is still around: Stopped comercial activity in 1997, strill around as "technology showcase".
 
+## ANGSTREM
+Logo:
 
+![alt text](https://github.com/RetroNora/Guide_for_Eastern_ICs/blob/main/Logos/Angstrem.jpg)
+
+Location: Soviet Union/ Russia, Zelenograd.
+
+Is still around: yes.
