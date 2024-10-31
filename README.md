@@ -66,3 +66,14 @@ Location: Soviet Union/ Tbilisi, Georgia.
 Is still around: No.
 
 
+## RODON
+Logo:
+
+![alt text](https://github.com/RetroNora/Guide_for_Eastern_ICs/blob/main/Logos/Rodon.jpg)
+
+Location: Soviet Union/ Kyiv, Ukraine.
+
+Is still around: Yes.
+
+
+
