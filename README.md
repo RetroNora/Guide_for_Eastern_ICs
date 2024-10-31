@@ -56,3 +56,13 @@ Location: Soviet Union/ Borzna, Ukraine.
 Is still around: Defunct in 1994.
 
 
+## MION
+Logo:
+
+![alt text](https://github.com/RetroNora/Guide_for_Eastern_ICs/blob/main/Logos/Mion1.jpg)
+
+Location: Soviet Union/ Minsk, Belarus.
+
+Is still around: Yes.
+
+
