@@ -24,7 +24,7 @@ Logo:
 
 ![alt text](https://github.com/RetroNora/Guide_for_Eastern_ICs/blob/main/Logos/Angstrem.jpg)
 
-Location: Soviet Union/ Russia, Zelenograd.
+Location: Soviet Union/Russia, Zelenograd.
 
 Is still around: yes.
 
@@ -33,7 +33,7 @@ Logo:
 
 ![alt text](https://github.com/RetroNora/Guide_for_Eastern_ICs/blob/main/Logos/Gamma.jpg)
 
-Location: Soviet Union/ Ukraine, Zaporizhzhia.
+Location: Soviet Union/Ukraine, Zaporizhzhia.
 
 Is still around: Defunct in 1991.
 
@@ -42,7 +42,7 @@ Logo:
 
 ![alt text](https://github.com/RetroNora/Guide_for_Eastern_ICs/blob/main/Logos/Integral.jpg)
 
-Location: Soviet Union/ Belarus, Minsk.
+Location: Soviet Union/Belarus, Minsk.
 
 Is still around: yes.
 
@@ -51,7 +51,7 @@ Logo:
 
 ![alt text](https://github.com/RetroNora/Guide_for_Eastern_ICs/blob/main/Logos/Kvadr1.jpg)
 
-Location: Soviet Union/ Borzna, Ukraine.
+Location: Soviet Union/Ukraine, Borzna.
 
 Is still around: Defunct in 1994.
 
@@ -61,7 +61,7 @@ Logo:
 
 ![alt text](https://github.com/RetroNora/Guide_for_Eastern_ICs/blob/main/Logos/Mion1.jpg)
 
-Location: Soviet Union/ Tbilisi, Georgia.
+Location: Soviet Union/Georgia, Tbilisi.
 
 Is still around: No.
 
@@ -71,7 +71,7 @@ Logo:
 
 ![alt text](https://github.com/RetroNora/Guide_for_Eastern_ICs/blob/main/Logos/Rodon.jpg)
 
-Location: Soviet Union/ Kyiv, Ukraine.
+Location: Soviet Union/Ukraine, Ivano-Frankivsk.
 
 Is still around: Yes.
 
