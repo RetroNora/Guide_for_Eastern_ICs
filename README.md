@@ -46,7 +46,7 @@ Location: Soviet Union/ Belarus, Minsk.
 
 Is still around: yes.
 
-##KVADR
+## KVADR
 Logo:
 
 ![alt text](https://github.com/RetroNora/Guide_for_Eastern_ICs/blob/main/Logos/Kvadr1.jpg)
