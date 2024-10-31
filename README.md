@@ -61,8 +61,8 @@ Logo:
 
 ![alt text](https://github.com/RetroNora/Guide_for_Eastern_ICs/blob/main/Logos/Mion1.jpg)
 
-Location: Soviet Union/ Minsk, Belarus.
+Location: Soviet Union/ Tbilisi, Georgia.
 
-Is still around: Yes.
+Is still around: No.
 
 
