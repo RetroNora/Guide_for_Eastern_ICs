@@ -45,3 +45,14 @@ Logo:
 Location: Soviet Union/ Belarus, Minsk.
 
 Is still around: yes.
+
+##KVADR
+Logo:
+
+![alt text](https://github.com/RetroNora/Guide_for_Eastern_ICs/blob/main/Logos/Kvadr1.jpg)
+
+Location: Soviet Union/ Borzna, Ukraine.
+
+Is still around: Defunct in 1994.
+
+
